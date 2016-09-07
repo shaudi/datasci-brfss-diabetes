@@ -6,7 +6,7 @@ The example R code was used to extract survey data related to health and lifesty
 
 ### Further details
 
-For further information on the analyses performed here, read the project blog:
+For further information on the analyses performed here, read the project blog:                                
 http://sj971.github.io
 
 For more information about the BRFSS, see:                                                                  
