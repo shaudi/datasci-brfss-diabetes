@@ -10,7 +10,7 @@ The relevant R files are (in order):
 - figure2_model_fitting.R
 - figure3_cluster_analysis.R
 
-Note that the raw data files are not included in this remote archive (due to size constraints); these can be downloaded from the BRFSS website linked below. The pre-processed data, as well as analysis file outputs including figures, are included here.
+Note that the raw data files are not included in this remote archive (due to size constraints); these can be downloaded from the BRFSS website linked below. The preprocessed data, as well as analysis outputs (including figures), are included here.
 
 ### Further details
 
