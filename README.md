@@ -11,6 +11,7 @@ The relevant R files are (in order):
 - figure3_cluster_analysis.R
 
 Note that the raw data files are not included in this remote archive (due to size constraints); these can be downloaded from the BRFSS website linked below. The preprocessed data, as well as analysis outputs and figures, are included here. To reuse this code, modify the paths to relevant local data folders as appropriate.
+<a href="http://www.cdc.gov/brfss/" target="_blank">example</a>
 
 ### Further details
 
